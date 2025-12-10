@@ -15,3 +15,4 @@ In doing so, created a Couple Features for the system to train off of.
 The over all objective was to train a module that could accuratly predict the survival and non-survived rate.  
 While using those impleminted features, sourcing out unnecesary features to use for the module.  
 Using visual graphs to help us visualize what type of adjustments were necessary as well.  
+After adjustments other training modules were also optional to test the difference in the accuracy in what features were important and what were not.  
